@@ -1,0 +1,55 @@
+:root {
+  /* Brand Luxury Palette */
+  --color-primary: #12372A;
+  --color-primary-dark: #0A2018;
+  --color-primary-light: #1D4B39;
+  --color-primary-subtle: rgba(18, 55, 42, 0.08);
+
+  --color-cream: #FFF8ED;
+  --color-cream-light: #FFFCF7;
+  --color-cream-dark: #F3E7D3;
+  --color-cream-border: rgba(212, 168, 83, 0.25);
+
+  --color-gold: #D4A853;
+  --color-gold-light: #E8C57A;
+  --color-gold-dark: #A3782E;
+  --color-gold-glow: rgba(212, 168, 83, 0.25);
+  --color-gold-gradient: linear-gradient(135deg, #F3D085 0%, #D4A853 50%, #A67C2E 100%);
+
+  --color-charcoal: #1C211E;
+  --color-charcoal-light: #28302B;
+  --color-charcoal-muted: #647069;
+
+  --color-white: #FFFFFF;
+  --color-danger: #D9383A;
+  --color-success: #2A9D8F;
+  --color-info: #3A86FF;
+
+  /* Typography */
+  --font-heading: 'Playfair Display', Georgia, serif;
+  --font-body: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* Elevations & Shadows */
+  --shadow-sm: 0 2px 8px rgba(28, 33, 30, 0.06);
+  --shadow-md: 0 8px 24px rgba(28, 33, 30, 0.09);
+  --shadow-lg: 0 16px 40px rgba(18, 55, 42, 0.14);
+  --shadow-xl: 0 24px 60px rgba(10, 32, 24, 0.22);
+  --shadow-gold: 0 8px 30px rgba(212, 168, 83, 0.28);
+  --shadow-inner: inset 0 2px 4px rgba(0, 0, 0, 0.06);
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 30px;
+  --radius-full: 9999px;
+
+  /* Transitions */
+  --transition-fast: 0.18s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* Layout */
+  --container-max: 1240px;
+  --header-height: 84px;
+}

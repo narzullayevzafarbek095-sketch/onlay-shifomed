@@ -117,3 +117,4 @@ shifomed/
 ## Eslatma (Demo Disclaimer)
 Ushbu loyiha portfolio, ko‘rgazma va dasturiy taqdimot maqsadida yaratilgan. Buyurtmalar va stol band qilish brauzerning `localStorage` xotirasida demo rejimida ishlaydi va haqiqiy moliyaviy to‘lovlar amalga oshirilmaydi.
 # restaran
+# restaran
